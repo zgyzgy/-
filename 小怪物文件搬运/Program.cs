@@ -10,7 +10,7 @@ namespace 小怪物文件搬运
     { 
         /// <summary>
         /// 应用程序的主入口点。
-        /// </summary>
+        /// </summary> 
         [STAThread]
         static void Main()
         {
