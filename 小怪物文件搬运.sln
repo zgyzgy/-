@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "小怪物文件搬运", "小怪物文件搬运\小怪物文件搬运.csproj", "{43D36964-79B0-4F13-B746-4DB84F6469CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z", "..\..\私活\ERP基础\z.ERP\trunk\z\z.csproj", "{68597FEB-8FF8-486E-B603-CE7E8DE57F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D36964-79B0-4F13-B746-4DB84F6469CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D36964-79B0-4F13-B746-4DB84F6469CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D36964-79B0-4F13-B746-4DB84F6469CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D36964-79B0-4F13-B746-4DB84F6469CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68597FEB-8FF8-486E-B603-CE7E8DE57F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68597FEB-8FF8-486E-B603-CE7E8DE57F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68597FEB-8FF8-486E-B603-CE7E8DE57F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68597FEB-8FF8-486E-B603-CE7E8DE57F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
